@@ -6,14 +6,14 @@ Unlike USBWebServer, all configs are NOT in one directory. The configs for each 
 
 # Custom setup
 If you wish to setup your own hWebServer, there are a few steps.
-1. Make sure all folders are titled correctly.
-   The Apache folder should be called "Apache24".
-   The PHP folder should be called "php".
-   The MySQL folder should be called "mysql".
+1. Make sure all folders are titled correctly.<br>
+   The Apache folder should be called "Apache24".<br>
+   The PHP folder should be called "php".<br>
+   The MySQL folder should be called "mysql".<br>
 
-2. Make sure to have a "bin" folder, where you have batch files for all binaries.
+2. Make sure to have a "bin" folder, where you have batch files for all binaries.<br>
    The structure of the batch file should be as follows:
-     @echo off
-     start "EXECUTABLE NAME"
+     @echo off<br>
+     start "EXECUTABLE NAME"<br>
    Where you replace "EXECUTABLE NAME" with the EXE. (example: php.exe)
 
