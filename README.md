@@ -5,6 +5,10 @@ The reason I made this is because i like using USBWebServer, but the outdated bi
 
 Unlike USBWebServer, all configs are NOT in one directory. The configs for each binary are in their respective folders. (example: Apache config = .\Apache24\conf\httpd.conf)
 
+# Install
+<hr>
+Just extract the zip file to "C:\hWebServer", and run the hWebserver.bat file
+
 # Custom setup
 If you wish to setup your own hWebServer, there are a few steps.
 1. Make sure all folders are titled correctly.<br>
