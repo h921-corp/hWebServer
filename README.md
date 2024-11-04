@@ -7,8 +7,8 @@ Unlike USBWebServer, all configs are NOT in one directory. The configs for each 
 
 # Install
 Just extract the zip file to "C:\hWebServer", and run the hWebserver.bat file
-The default login for phpMyAdmin and MySQL is the following:
-username: "root"
+The default login for phpMyAdmin and MySQL is the following:<br>
+username: "root"<br>
 password: "gaming"
 
 # Custom setup
