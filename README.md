@@ -1,6 +1,5 @@
 # hWebServer
 A USBWebserver alternative with a CLI instead of a GUI (because im lazy). All binaries (PHP, phpMyAdmin, Apache & MySQL) can be drop in replaced.<br>
-If you decide to upgrade any binaries, please do not delete the configs! I will add a system where the configs are in a seperate directory soon.<br>
 The reason I made this is because i like using USBWebServer, but the outdated binaries were slightly annoying, due to missing functions.<br>
 
 All config files can be found in the "conf" directory. There is no use in changing the configs inside the folders of the binaries themselves, since they will just be overwritten on restart.
