@@ -8,7 +8,7 @@ All config files can be found in the "conf" directory. There is no use in changi
 Just extract the zip file to "C:\hWebServer", and run the hWebserver.bat file
 The default login for phpMyAdmin and MySQL is the following:<br>
 username: "root"<br>
-password: "gaming"
+password: "husb"
 
 # Custom setup
 If you wish to setup your own hWebServer, there are a few steps.
